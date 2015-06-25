@@ -1,0 +1,4 @@
+[package]
+name = "haversine"
+version = "0.1.0"
+authors = ["Jeffrey Gilbert <visualjeff@linux.com>"]
