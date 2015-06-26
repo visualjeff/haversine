@@ -1,6 +1,6 @@
 [package]
 name = "haversine"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Jeffrey Gilbert <visualjeff@linux.com>"]
 description = "haversine implemented in rust"
 documentation = "https://github.com/visualjeff/haversine"
