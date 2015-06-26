@@ -16,8 +16,8 @@ fn haversine_distance_in_kilometers() {
 
 
 pub struct Location {
-    latitude:f64,
-    longitude:f64
+    pub latitude:f64,
+    pub longitude:f64
 }
 
 pub enum Units {
