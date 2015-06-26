@@ -1,6 +1,13 @@
 # haversine
 haversine implemented in rust
 
+Add haversine dependency to your project Cargo.toml file:
+```json
+[dependencies]
+haversine = "0.2.0"
+```
+
+Example usage:
 ```rust
 extern crate haversine;
 
