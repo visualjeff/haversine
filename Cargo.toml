@@ -1,12 +1,12 @@
 [package]
 name = "haversine"
-version = "0.2.0"
+version = "0.2.1"
 authors = ["Jeffrey Gilbert <visualjeff@linux.com>"]
 description = "haversine implemented in rust"
 documentation = "https://github.com/visualjeff/haversine"
 homepage = "https://github.com/visualjeff/haversine"
 repository = "https://github.com/visualjeff/haversine.git"
-readme = "https://github.com/visualjeff/haversine/blob/master/README.md"
+readme = "README.md"
 keywords = ["haversine", "distance"]
 license = "MIT"
-license-file = "https://github.com/visualjeff/haversine/blob/master/LICENSE"
+license-file = "LICENSE"

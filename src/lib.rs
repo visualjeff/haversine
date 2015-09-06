@@ -1,8 +1,8 @@
 #![allow(dead_code)]
 #![allow(unused_imports)]
 #![allow(unused_assignments)]
-#![feature(test)]
-extern crate test;
+//#![feature(test)]
+//extern crate test;
 
 #[test]
 fn haversine_distance_in_miles() {
