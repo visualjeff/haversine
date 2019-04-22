@@ -15,13 +15,15 @@ fn haversine_distance_in_kilometers() {
 }
 
 
+#[derive(Debug, Copy, Clone, PartialEq)]
 pub struct Location {
     pub latitude:f64,
     pub longitude:f64
 }
 
+#[derive(Debug, Copy, Clone, Eq, PartialEq)]
 pub enum Units {
-    Miles, 
+    Miles,
     Kilometers
 }
 
