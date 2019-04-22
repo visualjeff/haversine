@@ -9,4 +9,3 @@ repository = "https://github.com/visualjeff/haversine.git"
 readme = "README.md"
 keywords = ["haversine", "distance"]
 license = "MIT"
-license-file = "LICENSE"
